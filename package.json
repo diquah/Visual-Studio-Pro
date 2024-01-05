@@ -2,6 +2,10 @@
   "name": "visual-studio-pro",
   "displayName": "Visual Studio Pro",
   "description": "A color theme for late-night coding.",
+  "author": "Diquah",
+  "publisher": "diquah",
+  "icon": "logo.png",
+  "repository": "https://github.com/diquah/Visual-Studio-Pro",
   "version": "1.0.0",
   "engines": {
     "vscode": "^1.85.0"
