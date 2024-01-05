@@ -1,0 +1,21 @@
+{
+  "name": "visual-studio-pro",
+  "displayName": "Visual Studio Pro",
+  "description": "A color theme for late-night coding.",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Visual Studio Pro",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Visual Studio Pro-color-theme.json"
+      }
+    ]
+  }
+}
